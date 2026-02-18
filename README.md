@@ -1,16 +1,22 @@
-## Hi there 👋
+# My Portfolio Website
 
-<!--
-**hrushikeshkudtarkar/hrushikeshkudtarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Live Demo
+https://your-link.com
 
-Here are some ideas to get you started:
+## 📌 Features
+- Responsive design
+- Project showcase
+- Contact form
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 📷 Screenshots
+(Add screenshots here)
+
+## 📬 Contact
+Your Email
+LinkedIn link
+
