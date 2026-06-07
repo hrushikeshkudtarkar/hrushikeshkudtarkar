@@ -99,18 +99,6 @@ I live at the intersection of three worlds:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikeshkudtarkar&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=a0c4d8&border_color=203a43" height="160"/>
-
-</div>
-
----
-
 ## 🗺️ Career Journey
 
 ```
