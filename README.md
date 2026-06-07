@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hrushikesh%20Kudtarkar&fontSize=42&fontColor=00d4ff&fontAlignY=38&desc=Engineer%20→%20Data%20Analyst%20→%20Product%20Manager&descAlignY=58&descColor=a0c4d8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hrushikesh%20Kudtarkar&fontSize=42&fontColor=00d4ff&fontAlignY=38&desc=Engineer%20%E2%86%92%20Data%20Analyst%20%E2%86%92%20Product%20Manager&descAlignY=58&descColor=a0c4d8&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  > initialising profile...                                      │
 │  > loading: M.Sc. Industrial Engineering @ Fresenius Berlin     │
-│  > 4+ years ops data → product thinking                        │
+│  > 4+ years ops & data → product thinking                      │
 │  > status: OPEN TO OPPORTUNITIES ✦                              │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -90,10 +90,10 @@ I live at the intersection of three worlds:
 
 | # | Project | Stack | What it solves |
 |---|---------|-------|----------------|
-| 🔹 | **(EV Fleet Analytics Dashboard src="https://github.com/hrushikeshkudtarkar/Sales_Performance_Dashboard")(#)** | Power BI · SAP ERP · Excel | Real-time fleet availability, maintenance KPIs, failure-frequency heatmaps for 100+ electric buses. Cut recurring failures by **20%**. |
-| 🔹 | **[Product Funnel & Retention Analysis](#)** | Mixpanel · Python · SQL | End-to-end funnel analysis, cohort retention, and A/B test evaluation for user behaviour insights. |
-| 🔹 | **[CAN Bus Log Parser & Anomaly Detection](#)** | Python · Pandas · Matplotlib | Parses raw CAN bus logs from EV systems, flags anomalies, and visualises fault patterns across vehicle components. |
-| 🔹 | **[Sales & Financial Performance Dashboard](#)** | Python · Streamlit · Plotly | Interactive dashboard for revenue trends, regional profitability, and product-level KPI tracking. |
+| 🔹 | **[Fleet Management Dashboard](https://github.com/hrushikeshkudtarkar/fleet_management_dashboard)** | Python · Power BI · SAP ERP | Real-time fleet availability, maintenance KPIs, and failure-frequency heatmaps for 100+ electric buses. Cut recurring failures by **20%**. |
+| 🔹 | **[Sales Performance Dashboard](https://github.com/hrushikeshkudtarkar/Sales_Performance_Dashboard)** | Python · Streamlit · Plotly | Interactive dashboard for revenue trends, regional profitability, and product-level KPI tracking with real-time filtering. |
+| 🔹 | **[Financial Dashboard](https://github.com/hrushikeshkudtarkar/Financial_Dashboard)** | PHP · Excel · Data Visualisation | End-to-end financial reporting dashboard tracking cost variance, budget adherence, and procurement spend with executive-level summaries. |
+| 🔹 | **[Product Funnel & Retention Analysis](#)** *(coming soon)* | Mixpanel · Python · SQL | End-to-end funnel analysis, cohort retention, and A/B test evaluation for user behaviour insights. |
 
 > 👇 **Check pinned repositories below for live demos and code**
 
@@ -103,9 +103,9 @@ I live at the intersection of three worlds:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4d8&border_color=203a43&hide_border=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hrushikeshkudtarkar&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4d8&border_color=203a43&hide_border=false" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=a0c4d8&border_color=203a43" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikeshkudtarkar&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=a0c4d8&border_color=203a43" height="160"/>
 
 </div>
 
