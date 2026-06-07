@@ -90,7 +90,7 @@ I live at the intersection of three worlds:
 
 | # | Project | Stack | What it solves |
 |---|---------|-------|----------------|
-| 🔹 | **[EV Fleet Analytics Dashboard](#)** | Power BI · SAP ERP · Excel | Real-time fleet availability, maintenance KPIs, failure-frequency heatmaps for 100+ electric buses. Cut recurring failures by **20%**. |
+| 🔹 | **(EV Fleet Analytics Dashboard src="https://github.com/hrushikeshkudtarkar/Sales_Performance_Dashboard")(#)** | Power BI · SAP ERP · Excel | Real-time fleet availability, maintenance KPIs, failure-frequency heatmaps for 100+ electric buses. Cut recurring failures by **20%**. |
 | 🔹 | **[Product Funnel & Retention Analysis](#)** | Mixpanel · Python · SQL | End-to-end funnel analysis, cohort retention, and A/B test evaluation for user behaviour insights. |
 | 🔹 | **[CAN Bus Log Parser & Anomaly Detection](#)** | Python · Pandas · Matplotlib | Parses raw CAN bus logs from EV systems, flags anomalies, and visualises fault patterns across vehicle components. |
 | 🔹 | **[Sales & Financial Performance Dashboard](#)** | Python · Streamlit · Plotly | Interactive dashboard for revenue trends, regional profitability, and product-level KPI tracking. |
