@@ -16,8 +16,8 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  > initialising profile...                                      │
 │  > loading: M.Sc. Industrial Engineering @ Fresenius Berlin     │
-│  > 4+ years ops & data → product thinking                      │
-│  > status: OPEN TO OPPORTUNITIES ✦                              │
+│  > 4+ years ops & data → product thinking                       │
+│  > status: OPEN TO OPPORTUNITIES ✦                             │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -40,7 +40,7 @@ I live at the intersection of three worlds:
 
 ```
   ┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
-  │  ⚙️  Engineering  │ ──► │  📊  Data & BI    │ ──► │  📦  Product PM  │
+  │ ⚙️Engineering⚙️ │ ──► │ 📊 Data & BI 📊 │ ──► │ 📦 Product PM 📦│
   │                  │     │                  │     │                  │
   │  EV Systems      │     │  Python · SQL    │     │  Roadmapping     │
   │  CAN Bus / IoT   │     │  Power BI        │     │  Funnel Analysis │
@@ -103,7 +103,7 @@ I live at the intersection of three worlds:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hrushikeshkudtarkar&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4d8&border_color=203a43&hide_border=false" height="160"/>
+<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikeshkudtarkar&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=a0c4d8&border_color=203a43" height="160"/>
 
