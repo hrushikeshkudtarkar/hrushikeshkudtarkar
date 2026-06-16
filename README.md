@@ -1,124 +1,190 @@
-┌─────────────────────────────────────────────────────────────────┐
-│  > initialising profile...                                      │
-│  > loading: M.Sc. Industrial Engineering @ Fresenius Berlin     │
-│  > 4+ years EV fleet ops · infleeting · inventory management   │
-│  > status: OPEN TO WORKING STUDENT OPPORTUNITIES ✦             │
-└─────────────────────────────────────────────────────────────────┘
-```
+# Hi, I'm Hrushikesh Kudtarkar 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrushikesh-p-kudtarkar-2252b618b)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrushikeshkudtarkar27@gmail.com)
-[![Location](https://img.shields.io/badge/Berlin%2C%20Germany-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00b377?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+### M.Sc. Industrial Engineering & International Management | Berlin, Germany
+### Open to Working Student Opportunities
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrushikesh-p-kudtarkar-2252b618b)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hrushikeshkudtarkar27@gmail.com)
 
 ---
 
-## ⚡ Who I Am
+## About Me
 
-> *Fleet ops engineer who runs on data.*
+Industrial Engineering master's student in Berlin with 4+ years of experience in EV fleet operations, vehicle infleeting, inventory management, maintenance planning, and operational performance improvement.
 
-I spent **4+ years** managing end-to-end EV fleet operations across India — owning infleeting workflows for **150+ electric buses at Olectra Greentech** and **100+ at Hansa City Buses**, running spare-parts inventory via SAP ERP, maintaining 95%+ fleet availability, and improving MTBF by **30%** through structured maintenance programmes. Now in Berlin completing my **M.Sc. in Industrial Engineering & International Management** at Hochschule Fresenius, I'm applying that operational depth through data — building dashboards and analytical tools that solve real fleet problems.
+Previously managed operational performance for fleets of over 150 electric buses across Olectra Greentech and Hansa City Buses, maintaining 100%+ fleet availability and improving MTBF by 30%.
 
-I work at the intersection of three things:
-
-```
-┌──────────────────────┐     ┌──────────────────────┐     ┌──────────────────────┐
-│   ⚙️  Fleet Ops       │ ──► │   📊  Data & BI       │ ──► │   📦  Operations Mgmt │
-│                      │     │                      │     │                      │
-│  EV Infleeting       │     │  Python · SQL        │     │  Inventory Control   │
-│  Vehicle Lifecycle   │     │  Power BI            │     │  SAP ERP             │
-│  CAN Bus / IoT       │     │  Pandas · Plotly     │     │  Process Optimisation│
-└──────────────────────┘     └──────────────────────┘     └──────────────────────┘
-```
+Currently focused on applying Python, SQL, Power BI, and operations analytics to solve real-world fleet, manufacturing, and supply chain challenges.
 
 ---
 
-## 🧠 Tech Stack
+## Areas of Expertise
 
-**Data & Analytics**
+### Fleet Operations
+- Servicing of Electric Vehicles
+- EV Fleet Management
+- Vehicle Infleeting
+- Preventive Maintenance
+- Root Cause Analysis
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)]()
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)]()
-[![Excel](https://img.shields.io/badge/Excel%20Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)]()
+### Data & Analytics
+- Python
+- SQL
+- Power BI
+- Pandas
+- PostgreSQL
+- Excel
 
-**Visualisation & BI**
-
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)]()
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)]()
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)]()
-[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)]()
-
-**Product & Operations Analytics**
-
-[![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)]()
-[![Funnel Analysis](https://img.shields.io/badge/Funnel%20Analysis-FF6B35?style=flat-square&logo=googleanalytics&logoColor=white)]()
-
-**Engineering & Ops**
-
-[![SAP ERP](https://img.shields.io/badge/SAP%20ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)]()
-[![IoT](https://img.shields.io/badge/CAN%20Bus%20%2F%20IoT-2c5364?style=flat-square&logo=raspberrypi&logoColor=white)]()
-[![SCADA](https://img.shields.io/badge/SCADA-555555?style=flat-square&logo=siemens&logoColor=white)]()
+### Operations & Supply Chain
+- SAP
+- Inventory Management
+- Spare Parts Planning
+- Process Optimization
+- KPI Reporting
 
 ---
 
-## 📂 Featured Projects
+## Tech Stack
 
-| # | Project | Stack | What it solves |
-|---|---------|-------|----------------|
-| 🔹 | **[EV Fleet Operations Dashboard](https://github.com/hrushikeshkudtarkar/fleet_management_dashboard)** | Power BI · PostgreSQL · Python · Pandas | Full fleet ops dashboard — 107 electric buses, 5 pages covering fleet overview, charging operations, battery health, driver performance, and route efficiency. Built on a real PostgreSQL schema with Python EDA. |
-| 🔹 | **[Sales & Operations Performance Dashboard](https://github.com/hrushikeshkudtarkar/Sales_Performance_Dashboard)** | Python · Streamlit · Plotly · Pandas | Interactive dashboard for revenue KPIs, monthly trends, regional analysis, and product category performance. Real-time sidebar filters, live data viewer. |
+### Programming & Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Regression-102230?style=flat-square)
+![Classification](https://img.shields.io/badge/Classification-00599C?style=flat-square)
+
+### Data Visualization & BI
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square)
+
+### Development Environment
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda_Navigator-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Enterprise & Operations
+
+![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
+## Featured Projects
+
+### EV Fleet Operations Dashboard
+
+**Tech Stack:** Power BI • PostgreSQL • Python • Pandas
+
+- Fleet operations dashboard covering 107 electric buses
+- Fleet availability and maintenance KPIs
+- Battery health monitoring
+- Driver performance analytics
+- Route efficiency tracking
+
+🔗 Repository: https://github.com/hrushikeshkudtarkar/fleet_management_dashboard
 
 ---
 
-## 🗺️ Career Journey
+### Sales & Operations Performance Dashboard
 
-```
-2013 ──► Diploma, Mechanical Engineering — VIVA Institute of Technology
-   │
-2017 ──► B.E. Mechanical Engineering — Bharat College of Engineering
-   │
-2020 ──► Apprentice Engineer @ Mahindra & Mahindra
-   │         └─ ISO 9001 manufacturing processes, SCADA systems
-   │
-2021 ──► Workshop In-Charge @ Hansa City Buses
-   │         └─ Led EV fleet ops · 100+ electric buses
-   │         └─ SAP ERP · spare-parts inventory
-   │         └─ ↑ MTBF by 30% · team of engineers & technicians
-   │
-2024 ──► Service Engineer @ Olectra Greentech (BYD Partnership)
-   │         └─ 150+ electric buses · 95%+ fleet availability
-   │         └─ Infleeting workflows · OEM coordination (BYD)
-   │         └─ Root cause analysis · data integrity management
-   │
-2025 ──► M.Sc. Industrial Engineering @ Fresenius, Berlin ◄── NOW
-             └─ Operations Management · Data Analytics & AI
-             └─ Industry 4.0 / IIoT · Quality Management
-             └─ German: A2 → actively improving toward B1
-```
+**Tech Stack:** Python • Streamlit • Plotly • Pandas
+
+- Interactive business intelligence dashboard
+- Revenue and operational KPI tracking
+- Regional performance analysis
+- Product category insights
+- Dynamic filtering and reporting
+
+🔗 Repository: https://github.com/hrushikeshkudtarkar/Sales_Performance_Dashboard
 
 ---
 
-## 🎯 Currently Building
+## Professional Experience Highlights
 
-- 📊 **Operational dashboards** — fleet availability, maintenance KPIs, inventory tracking in Power BI and Python
-- 🔧 **Data pipelines** — PostgreSQL + Python for EV fleet analytics
-- 🌍 **German** — actively improving from A2 toward B1
+### Olectra Greentech Ltd (BYD Partnership)
+**Service Engineer | Sept 2024 – Aug 2025**
+
+- Managed infleeting and operational support for 150+ electric buses
+- Analysed service bottlenecks s
+- Maintained fleet availability 100%
+- Coordinated with OEM teams for technical issue resolution
+- Conducted root cause analysis and performance monitoring
+
+### Hansa City Buses Services Pvt Ltd
+**Workshop In-Charge | Sept 2021 – Sept 2024**
+
+- Led maintenance operations for 100+ electric buses
+- Managed SAP inventory and spare parts planning
+- Improved MTBF by 30%
+- Supervised engineers and technicians
+
+### Mahindra & Mahindra
+**Apprentice Maintenance Engineer**
+
+- Worked on manufacturing systems and maintenance operations
+- Exposure to ISO 9001 processes and SCADA systems
 
 ---
 
-## 💬 Let's Connect
+## Education
 
-I'm actively looking for **Working Student** roles (16–20 hrs/week) in:
+### M.Sc. Industrial Engineering & International Management
+Hochschule Fresenius, Berlin (Ongoing)
 
-`Fleet Operations` · `EV Infleeting` · `Operations Management` · `Supply Chain & Inventory` · `Data & BI`
+Relevant Areas:
+- Operations Management
+- Data Analytics
+- Industry 4.0
+- Supply Chain Management
+- Quality Management
 
-📧 **hrushikeshkudtarkar27@gmail.com**
-📍 **Berlin, Germany** — open to relocation to Munich · valid German residence permit · immediately available
+### B.E. Mechanical Engineering
+Bharat College of Engineering
+
+### Diploma in Mechanical Engineering
+VIVA Institute of Technology
 
 ---
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+## Currently Building
+
+- Fleet Operations Dashboards
+- Power BI Analytics Solutions
+- PostgreSQL + Python Data Pipelines
+- Inventory and Maintenance KPI Tracking
+- German Language Skills (A2 → B1)
+
+---
+
+## Looking For
+
+Working Student opportunities in:
+
+- Fleet Operations
+- Operations Management
+- Supply Chain Management
+- Inventory & Logistics
+
+📍 Berlin, Germany
+
+📧 hrushikeshkudtarkar27@gmail.com
+
+💼 Available immediately
+
+🌍 Open to relocation within Germany
