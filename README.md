@@ -12,7 +12,7 @@
 
 Industrial Engineering master's student in Berlin with 4+ years of experience in EV fleet operations, vehicle infleeting, inventory management, maintenance planning, and operational performance improvement.
 
-Previously managed operational performance for fleets of over 150 electric buses across Olectra Greentech and Hansa City Buses, maintaining 100%+ fleet availability and improving MTBF by 30%.
+Previously managed operational performance for fleets of over 150 electric buses across Olectra Greentech and Hansa City Buses, maintaining 100%+ fleet availability.
 
 Currently focused on applying Python, SQL, Power BI, and operations analytics to solve real-world fleet, manufacturing, and supply chain challenges.
 
