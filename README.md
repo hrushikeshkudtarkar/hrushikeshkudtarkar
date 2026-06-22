@@ -176,7 +176,6 @@ VIVA Institute of Technology
 
 Working Student opportunities in:
 
-- Fleet Operations
 - Operations Management
 - Supply Chain Management
 - Inventory & Logistics
